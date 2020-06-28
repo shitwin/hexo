@@ -13,8 +13,7 @@ date: 2020-06-27 01:36:00
 * Now or Never
 
 
-![upload successful](/images/pasted-0.png)
+![upload successful](/hexo/images/pasted-0.png)
 
 
-![upload successful](/images/pasted-1.png)
-
+![upload successful](/hexo/images/pasted-1.png)
