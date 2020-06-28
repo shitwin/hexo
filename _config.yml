@@ -102,3 +102,8 @@ deploy:
   repo: git@github.com:shitwin/hexo.git
   branch: master
   message: hexoadmin
+
+admin:
+  deployCommand: '/usr/bin/hexodeploy.sh'
+
+
