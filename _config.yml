@@ -100,10 +100,14 @@ theme: landscape
 deploy:
   type: git
   repo: git@github.com:shitwin/hexo.git
-  branch: master
+  branch: hero-pages
   message: hexoadmin
 
+# hexo-admin authentification
 admin:
+  username: h
+  password_hash: $2a$10$8rmbgf/7up//xonyOzON2uy.N6hYS1mRZJdkPI.uza/s6Q1kYA3gO
+  secret: 1f28e49f34e2406fdb6d6158eebd793b
   deployCommand: '/usr/bin/hexodeploy.sh'
 
 
