@@ -1,5 +1,5 @@
 options:
   lineNumbers: true
-  imagePath: /hexo/images
+  imagePath: /images
 editor:
   lineNumbers: true
