@@ -111,4 +111,13 @@ admin:
   secret: 1f28e49f34e2406fdb6d6158eebd793b
   deployCommand: '/usr/bin/hexodeploy.sh'
 
+search:
+  path: search.xml
+  # post/page/all
+  field: all
+
+local_search:
+  enable: true
+  trigger: auto
+  top_n_per_article: 2
 

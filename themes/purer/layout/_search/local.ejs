@@ -8,7 +8,7 @@ const contentJson = (config.jsonContent && config.jsonContent.file) || '/content
         </div>
         <div class="search-result bg-gray-200">
             {{#each searchPosts}}
-            <a href="/{{ path }}" class="result-item block px-2 pb-3 mb-1 pt-1 hover:bg-indigo-100">
+            <a href="/hexo/{{ path }}" class="result-item block px-2 pb-3 mb-1 pt-1 hover:bg-indigo-100">
                 <i class="iconfont icon-file"></i>
                 <h1 class="result-title inline font-medium text-lg">{{ title }}</h1>
                 <p class="result-content text-gray-600 text-sm">{{{ text }}}</p>
