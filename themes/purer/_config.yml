@@ -7,7 +7,7 @@ menu:
 #  Repository: repository  # github repositories
 #  Books: books  # 豆瓣书单
 #  Links: links  # 友链
-  About: about  # 关于
+#  About: about  # 关于
 
 # Enable/Disable menu icons
 menu_icons:
@@ -87,7 +87,8 @@ profile:
   follow: https://github.com/
   # Social Links
   social:
-    links:
+#   links:
+    links2:
       github: https://github.com/shitwin
       telegram: https://t.me/shitwin
       twitter: https://twitter.com/shitwin
@@ -99,7 +100,8 @@ profile:
     link_tooltip: false    
 
   # My Personal Links
-  links:
+# links:
+  links2:
     Github: https://github.com/shitwin
     Blog: https://shitwin.github.io
     Email: hexo@nalai.tech
