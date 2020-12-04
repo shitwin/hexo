@@ -2,11 +2,11 @@
 menu:
   Home: .
   Archives: archives  # 归档
-  Categories: categories  # 分类
-  Tags: tags  # 标签
-  Repository: repository  # github repositories
+#  Categories: categories  # 分类
+#  Tags: tags  # 标签
+#  Repository: repository  # github repositories
 #  Books: books  # 豆瓣书单
-  Links: links  # 友链
+#  Links: links  # 友链
   About: about  # 关于
 
 # Enable/Disable menu icons
@@ -76,7 +76,8 @@ footer:
 #  custom:
 
 profile:
-  enabled: true # Whether to show profile bar
+# enabled: true # Whether to show profile bar
+  enabled: false
 #  avatar: images/avatar.jpg
   gravatar: hexo@nalai.tech # Gravatar email address, if you enable Gravatar, your avatar config will be overriden
   author: Hero Wu
@@ -94,7 +95,8 @@ profile:
       # dribbble: /
 #      behance: https://www.behance.net/cofess
       rss: atom.xml
-    link_tooltip: true # enable the social link tooltip, options: true, false
+#   link_tooltip: true # enable the social link tooltip, options: true, false
+    link_tooltip: false    
 
   # My Personal Links
   links:
