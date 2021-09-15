@@ -46,7 +46,6 @@
     <title>Wifi</title>
     <url>/hexo/2020/12/04/Wifi/</url>
     <content><![CDATA[<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">落日绣帘卷，亭下水连空。</span><br><span class="line">知君为我新作，窗户湿青红。</span><br><span class="line">长记平山堂上，欹枕江南烟雨，杳杳没孤鸿。</span><br><span class="line">认得醉翁语，山色有无中。</span><br><span class="line"></span><br><span class="line">一千顷，都镜净，倒碧峰。</span><br><span class="line">忽然浪起，掀舞一叶白头翁。</span><br><span class="line">堪笑兰台公子，未解庄生天籁，刚道有雌雄。</span><br><span class="line">一点浩然气，千里快哉风。</span><br></pre></td></tr></table></figure>
-
 <blockquote>
 <p>– 水调歌头 苏轼</p>
 </blockquote>
@@ -54,7 +53,7 @@
   </entry>
   <entry>
     <title>Hello World</title>
-    <url>/hexo/2020/12/04/hello-world/</url>
+    <url>/hexo/2021/09/15/hello-world/</url>
     <content><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p>
 <h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure>
 
@@ -78,6 +77,11 @@
   <entry>
     <title>Page One</title>
     <url>/hexo/Page-One/index.html</url>
-    <content><![CDATA[]]></content>
+    <content><![CDATA[<style>
+ pre { font-family: consolas; }
+</style>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line"></span><br><span class="line">                   _ooOoo_</span><br><span class="line">                  o8888888o</span><br><span class="line">                  88&quot; . &quot;88</span><br><span class="line">                  (| -_- |)</span><br><span class="line">                  O\  &#x3D;  &#x2F;O</span><br><span class="line">               ____&#x2F;&#96;---&#39;\____</span><br><span class="line">             .&#39;  \\|     |&#x2F;&#x2F;  &#96;.</span><br><span class="line">            &#x2F;  \\|||  :  |||&#x2F;&#x2F;  \</span><br><span class="line">           &#x2F;  _||||| -:- |||||-  \</span><br><span class="line">           |   | \\\  -  &#x2F;&#x2F;&#x2F; |   |</span><br><span class="line">           | \_|  &#39;&#39;\---&#x2F;&#39;&#39;  |   |</span><br><span class="line">           \  .-\__  &#96;-&#96;  ___&#x2F;-. &#x2F;</span><br><span class="line">         ___&#96;. .&#39;  &#x2F;--.--\  &#96;. . __</span><br><span class="line">      .&quot;&quot; &#39;&lt;  &#96;.___\_&lt;|&gt;_&#x2F;___.&#39;  &gt;&#39;&quot;&quot;.</span><br><span class="line">     | | :  &#96;- \&#96;.;&#96;\ _ &#x2F;&#96;;.&#96;&#x2F; - &#96; : | |</span><br><span class="line">     \  \ &#96;-.   \_ __\ &#x2F;__ _&#x2F;   .-&#96; &#x2F;  &#x2F;</span><br><span class="line">&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#96;-.____&#96;-.___\_____&#x2F;___.-&#96;____.-&#39;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;</span><br><span class="line">                   &#96;&#x3D;---&#x3D;&#39;</span><br><span class="line">^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^</span><br><span class="line">           佛祖保佑       永无BUG</span><br></pre></td></tr></table></figure>
+
+]]></content>
   </entry>
 </search>
